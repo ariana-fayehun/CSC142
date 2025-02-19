@@ -1,7 +1,8 @@
 /*
 
 Name of File: RectangleTester.cpp
-Description: 
+Description: Asks for inputs descriping the length and width of three different rooms,
+and responds with the area
 Name: Ariana Fayehun
 Date: 2/17/25
 
